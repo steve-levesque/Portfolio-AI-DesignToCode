@@ -1,0 +1,79 @@
+/* Default size */
+body {
+  height: 1000px;
+}
+
+/* Margin blanks fix */
+body,
+h1,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+header,
+footer {
+  background-color: black;
+}
+header {
+  height: 10%;
+}
+footer {
+  height: 10%;
+}
+
+#pic-0 {
+  top: 21px;
+  left: 29px;
+  height: 8.69%;
+  width: 15.23%;
+  position: absolute;
+}
+
+#pic-1-1 {
+  top: 10%;
+  height: 80%;
+  width: 25%;
+  left: 12.5%;
+  position: absolute;
+}
+
+#pic-1-2 {
+  top: 10%;
+  height: 80%;
+  width: 25%;
+  left: 50%;
+  position: absolute;
+}
+
+#side-1-1,
+#side-1-2 {
+  height: 60%;
+}
+#side-2-1 {
+  height: 20%;
+}
+
+#side-1-1 {
+  background-color: #484848;
+  width: 25%;
+  float: left;
+}
+
+#side-1-2 {
+  left: 25%;
+  background-color: #808080;
+  width: 75%;
+  position: relative;
+}
+
+#side-2-1 {
+  background-color: #b8b8b8;
+}
+
+#button-1-2 {
+  top: 35%;
+  left: 85%;
+  position: absolute;
+}

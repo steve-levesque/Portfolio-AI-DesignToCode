@@ -1,0 +1,77 @@
+body {
+  height: 1000px;
+}
+
+body,
+h1,
+ul,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+header,
+footer {
+  background-color: black;
+}
+header {
+  height: 12.06%;
+}
+footer {
+  height: 11.52%;
+}
+
+#picture23 {
+  top: 21px;
+  left: 29px;
+  position: absolute;
+  height: 8.69%;
+  width: 15.23%;
+}
+
+#box20 {
+  background-color: #484848;
+  float: left;
+  height: 40.43%;
+  width: 19.54%;
+}
+
+#picture14 {
+  top: 121px;
+  left: 204px;
+  position: absolute;
+  height: 29.26%;
+  width: 20.98%;
+}
+
+#picture9 {
+  top: 122px;
+  left: 369px;
+  position: absolute;
+  height: 28.9%;
+  width: 19.25%;
+}
+
+#box8 {
+  top: 218px;
+  left: 535px;
+  position: absolute;
+  height: 7.09%;
+  width: 14.94%;
+}
+
+#box6 {
+  background-color: #808080;
+  left: 19.54%;
+  position: relative;
+  height: 40.43%;
+  width: 80.46%;
+}
+
+#box4 {
+  background-color: #b8b8b8;
+  height: 23.58%;
+  width: 100%;
+}
+
+
