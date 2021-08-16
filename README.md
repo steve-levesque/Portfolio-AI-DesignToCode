@@ -108,7 +108,7 @@ When it is completed, the elements are arranged together in the respective sheet
 
 <!-- Getting Started -->
 ## Installation
-For this project to work, some programs needs to be installed with the required Python librearies:
+For this project to work, some programs needs to be installed with the required Python libraries:
 - Python 3.x
 - Jupyter Notebook (optional, but necessary for the notebooks)
 - Tesseract-OCR
